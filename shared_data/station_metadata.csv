@@ -1,0 +1,8 @@
+river,station,role
+Yi,TanTou,upstream
+Yi,LongMenDaQiao,downstream
+Luo,LingKou,upstream
+Luo,BaiMaSi,downstream
+Luo,LuoNingChangShui,gradient
+Luo,QiLiPu,gradient
+Luo,GaoYaZhai,gradient
