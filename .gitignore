@@ -1,0 +1,13 @@
+input/
+input_data/
+restricted_for_review/
+r2_results/
+output/
+gis/
+r2_log_step*.txt
+*.log
+__pycache__/
+*.pyc
+.Rhistory
+.DS_Store
+Thumbs.db
